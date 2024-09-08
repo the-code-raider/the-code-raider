@@ -1,4 +1,9 @@
-## Hello there 👋
+
+
+##  Hello there! I'm code-raider 👋
+
+**Frontend Developer | React-Focused | Curious Mind**
+
 
 <!--
 **the-code-raider/the-code-raider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
